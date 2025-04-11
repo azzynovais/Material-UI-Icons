@@ -5,6 +5,6 @@ I did it, an icon that uses Papirus and Samsung's OneUI and Healing Town from Xi
 ![Big Material UI](https://github.com/user-attachments/assets/ecef7dd9-2beb-4680-9106-c43341507ec0)
 
 # Features
-An flat looking icons that is good on the eyes and that fits material designs ideas
-It is made to be used with BigLinux and KDE distros, but since this is a fork of gnome-looks OneUI icon pack with an few tweaks, it can be supported with GNOME and even Cinnamon, but this was made with BigLinux KDE in mind
-Custom icons that mix OneUI and Xiaomi/Evanc's healing town
+- An flat looking icons that is good on the eyes and that fits material designs ideas
+- It is made to be used with BigLinux and KDE distros, but since this is a fork of gnome-looks OneUI icon pack with an few tweaks, it can be supported with GNOME and even Cinnamon, but this was made with BigLinux KDE in mind
+- Custom icons that mix OneUI and Xiaomi/Evanc's healing town
